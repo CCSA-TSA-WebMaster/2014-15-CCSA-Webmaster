@@ -1,0 +1,156 @@
+div.hexagonShellO{
+	width: 160px;
+	height: 160px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.hexagonShellO span{
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	position: absolute;
+}
+.hexagonShellO .triOne{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #ffaa00 transparent;
+	top: 0px;
+	left: 0px;
+}
+.hexagonShellO .triTwo{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #e08e00 transparent transparent transparent;
+	top: 0px;
+	left: 40px;
+}
+.hexagonShellO .triThree{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #ffaa00 transparent;
+	top: 0px;
+	left: 80px;
+}
+.hexagonShellO .triFour{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #e08e00 transparent transparent transparent;
+	top: 69.3px;
+	left: 0px;
+}
+.hexagonShellO .triFive{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #ffaa00 transparent;
+	top: 69.3px;
+	left: 40px;
+}
+.hexagonShellO .triSix{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #e08e00 transparent transparent transparent;
+	top: 69.3px;
+	left: 80px;
+}
+
+
+
+div.hexagonShellP{
+	width: 160px;
+	height: 160px;
+	position: absolute;
+	left: 120px;
+	top: 69.3px;
+}
+.hexagonShellP span{
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	position: absolute;
+}
+.hexagonShellP .triOne{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #cb2eff transparent;
+	top: 0px;
+	left: 0px;
+}
+.hexagonShellP .triTwo{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #a615d6 transparent transparent transparent;
+	top: 0px;
+	left: 40px;
+}
+.hexagonShellP .triThree{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #cb2eff transparent;
+	top: 0px;
+	left: 80px;
+}
+.hexagonShellP .triFour{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #a615d6 transparent transparent transparent;
+	top: 69px;
+	left: 0px;
+}
+.hexagonShellP .triFive{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #cb2eff transparent;
+	top: 69px;
+	left: 40px;
+}
+.hexagonShellP .triSix{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #a615d6 transparent transparent transparent;
+	top: 69px;
+	left: 80px;
+}
+
+
+
+div.hexagonShellG{
+	width: 160px;
+	height: 160px;
+	position: absolute;
+	left: 0px;
+	top: 138px;
+}
+.hexagonShellG span{
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	position: absolute;
+}
+.hexagonShellG .triOne{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #1ce63a transparent;
+	top: 0px;
+	left: 0px;
+}
+.hexagonShellG .triTwo{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #17ba2f transparent transparent transparent;
+	top: 0px;
+	left: 40px;
+}
+.hexagonShellG .triThree{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #1ce63a transparent;
+	top: 0px;
+	left: 80px;
+}
+.hexagonShellG .triFour{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #17ba2f transparent transparent transparent;
+	top: 69px;
+	left: 0px;
+}
+.hexagonShellG .triFive{
+	border-width: 0 40px 69.3px 40px;
+	border-color: transparent transparent #1ce63a transparent;
+	top: 69px;
+	left: 40px;
+}
+.hexagonShellG .triSix{
+	border-width: 69.3px 40px 0 40px;
+	border-color: #17ba2f transparent transparent transparent;
+	top: 69px;
+	left: 80px;
+}
