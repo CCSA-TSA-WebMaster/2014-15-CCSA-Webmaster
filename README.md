@@ -1,8 +1,4 @@
 2014-15-CCSA-Webmaster
 ======================
 
-Repo for the 2014-15 Webmaster competition website. 
-
-Main Page of the Society for Rustled Jimmies
-
-Stem.Stem.Stem.
+The official testing branch for concepts in the website. It will mostly be Karl working on this, as he's the main code guy, but everyone else is free to contribute.
