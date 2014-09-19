@@ -2,8 +2,6 @@ div.hexagonShellO{
 	width: 160px;
 	height: 160px;
 	position: absolute;
-	top: 0px;
-	left: 0px;
 }
 .hexagonShellO span{
 	display: inline-block;
@@ -55,8 +53,6 @@ div.hexagonShellP{
 	width: 160px;
 	height: 160px;
 	position: absolute;
-	left: 120px;
-	top: 69.3px;
 }
 .hexagonShellP span{
 	display: inline-block;
@@ -108,8 +104,6 @@ div.hexagonShellG{
 	width: 160px;
 	height: 160px;
 	position: absolute;
-	left: 0px;
-	top: 138px;
 }
 .hexagonShellG span{
 	display: inline-block;
